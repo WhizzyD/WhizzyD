@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @WhizzyD
+- 👋 Hi, I’m @KartikPandey
 - 👀 I’m interested in ... Game Development and Game Engine Architecture
 - 🌱 I’m currently learning ... C++, SDL2, OpenGL
-- 💞️ I’m looking to collaborate on ... none. I'm a hobbyist and a lone wolf.
-- 📫 How to reach me ... don't
+- 💞️ I’m looking to collaborate on ... my homebrewed game framework.
+- 📫 How to reach me ... kartikpandeyindia@gmail.com
 
 <!---
 WhizzyD/WhizzyD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
